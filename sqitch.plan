@@ -2,3 +2,4 @@
 %project=goodfilm
 
 appschmea 2015-07-22T16:46:07Z Tyr Chen <tchen@tchen-mbp> # Add schema for goodfilm objects
+film 2015-07-22T16:48:02Z Tyr Chen <tchen@tchen-mbp> # Add the goodfilm tables
